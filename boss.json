@@ -1,0 +1,11 @@
+{
+	"name": "myload",
+	"description": "Library for working with loads.",
+	"version": "1.0.0",
+	"homepage": "https://github.com/code-en-code/MyLoad",
+	"mainsrc": "/src",
+	"projects": [],
+	"dependencies": {
+		"https://github.com/code-en-code/mythread": "^v1.0.0"
+	}
+}
